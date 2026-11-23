@@ -1,0 +1,8 @@
+pandas
+faker
+rapidfuzz
+networkx
+scikit-learn
+pytest
+pyyaml
+streamlit

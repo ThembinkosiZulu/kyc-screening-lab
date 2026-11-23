@@ -1,0 +1,32 @@
+seed: 42
+n_companies: 400
+n_sanctions_entries: 300
+n_periods: 52
+
+ownership_threshold_pct: 25
+
+rates:                    # share of companies receiving each flag
+  sanctions_match: 0.08
+  hidden_owner: 0.10
+  document_mismatch: 0.08
+  high_risk_location: 0.07
+  look_alike: 0.08
+
+allow_multi_flag: true
+multi_flag_probability: 0.05
+
+chain_depth:              # depth = number of ownership links
+  tracer_cap: 4           # the agreed depth for the success criterion
+  before_evasion: [2, 4]
+  after_evasion: [5, 6]
+evasion_period: 27
+
+cultures:
+  chinese: 0.20
+  spanish: 0.20
+  german: 0.20
+  arabic: 0.20
+  south_african: 0.20
+
+high_risk_countries: [Zavria, Korund, Belmara, Tessolia]
+low_risk_countries: [Norvia, Elbany, Castren, Veluna, Orsova, Dunmark]
