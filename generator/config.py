@@ -12,6 +12,7 @@ def validate(cfg):
     assert 300 <= cfg["n_companies"] <= 500, "n_companies must be 300-500"
     assert 200 <= cfg["n_sanctions_entries"] <= 500, "sanctions list must be 200-500"
     assert 0 < cfg["ownership_threshold_pct"] < 100
+    assert abs(sum(cfg["variant_level_mix"].values()) - 1.0) < 1e-9, "variant mix must sum to 1"
 
     for flag, rate in cfg["rates"].items():
         assert 0 <= rate <= 1, f"rate for {flag} must be between 0 and 1"

@@ -30,3 +30,9 @@ cultures:
 
 high_risk_countries: [Zavria, Korund, Belmara, Tessolia]
 low_risk_countries: [Norvia, Elbany, Castren, Veluna, Orsova, Dunmark]
+
+variant_level_mix:        # how planted sanctions matches are altered
+  exact: 0.30
+  one_change: 0.50
+  two_changes: 0.20
+  

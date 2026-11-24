@@ -1,0 +1,301 @@
+sanction_id,full_name,date_of_birth,country
+SL-0001,Xu Jing,1988-05-15,Orsova
+SL-0002,Miguel Fernández López,1994-09-12,Dunmark
+SL-0003,Zhou Hao,1998-03-10,Zavria
+SL-0004,Elena Sánchez García,1990-06-10,Orsova
+SL-0005,Omar Haddad,1959-02-14,Norvia
+SL-0006,Carmen Pérez Gómez,1958-05-20,Norvia
+SL-0007,Yang Leiyan,1995-03-20,Elbany
+SL-0008,Stefan Fischer,1986-03-17,Veluna
+SL-0009,Thabo Ndlovu,1986-09-02,Orsova
+SL-0010,Fatima Al-Farouk,2000-02-16,Dunmark
+SL-0011,Lena von der Wagner,1971-11-08,Tessolia
+SL-0012,Javier Torres Ortega,1996-09-24,Zavria
+SL-0013,Fatima Saleh,1957-11-23,Tessolia
+SL-0014,Willem Mokoena,1998-08-22,Norvia
+SL-0015,Layla Al-Haddad,1996-06-19,Norvia
+SL-0016,Bongani Sithole,1953-10-25,Dunmark
+SL-0017,Ingrid Strauß,1968-08-21,Belmara
+SL-0018,Diego Ruiz Torres,1951-12-31,Veluna
+SL-0019,Chen Weiyan,1980-09-20,Castren
+SL-0020,Lucía Romero Torres,1970-11-16,Orsova
+SL-0021,Carlos Martínez Pérez,1978-04-03,Norvia
+SL-0022,Wang Ting,1957-01-13,Veluna
+SL-0023,Markus Weber,1968-06-03,Dunmark
+SL-0024,Zhao Xiao,1956-06-29,Elbany
+SL-0025,Jonas Berg,1996-08-09,Korund
+SL-0026,Liu Xiao,1984-05-27,Dunmark
+SL-0027,Thandi Nkosi,1999-09-18,Norvia
+SL-0028,Pablo Ortega Fernández,1996-02-10,Tessolia
+SL-0029,Samira Al-Hassan,1958-02-28,Tessolia
+SL-0030,Hassan Karim,1962-01-16,Tessolia
+SL-0031,Huang Yan,1995-10-12,Dunmark
+SL-0032,Katrin Hoffmann,1959-03-11,Orsova
+SL-0033,Anna Hoffmann,1971-10-29,Belmara
+SL-0034,Markus Wagner,1996-07-24,Castren
+SL-0035,Wang Yanming,1992-03-01,Dunmark
+SL-0036,Li Lei,1983-05-13,Zavria
+SL-0037,Xu Jingqiang,1993-03-11,Orsova
+SL-0038,Sun Mingjing,1969-04-23,Tessolia
+SL-0039,Anna Schmidt,1982-02-08,Castren
+SL-0040,Ingrid Koch,1997-07-20,Orsova
+SL-0041,Wu Jingjun,1983-07-28,Castren
+SL-0042,Thabo Nkosi,1989-01-21,Tessolia
+SL-0043,Johan Mokoena,1950-03-21,Zavria
+SL-0044,Khalid Al-Haddad,1950-10-25,Tessolia
+SL-0045,Elena Fernández Romero,1964-12-25,Zavria
+SL-0046,Stefan Strauß,1980-12-18,Tessolia
+SL-0047,Palesa Mokoena,1964-07-09,Elbany
+SL-0048,Chen Qiang,1953-02-10,Dunmark
+SL-0049,Johan du Plessis,1952-04-23,Orsova
+SL-0050,Zhang Qiangting,1986-10-19,Zavria
+SL-0051,Li Tinghua,1965-03-20,Belmara
+SL-0052,Zanele Mokoena,1955-08-31,Veluna
+SL-0053,Bongani Khumalo,1952-03-16,Belmara
+SL-0054,Ana Sánchez Torres,1983-07-23,Tessolia
+SL-0055,Willem le Roux,1989-03-20,Castren
+SL-0056,Lerato Sithole,1964-10-27,Korund
+SL-0057,Ingrid von der Koch,1977-02-25,Norvia
+SL-0058,Zhang Xiaofang,1962-02-20,Zavria
+SL-0059,Huang Qiangjing,1969-11-18,Elbany
+SL-0060,Yang Ting,1956-03-08,Veluna
+SL-0061,Hassan Al-Saleh,1959-02-24,Belmara
+SL-0062,Pablo López Pérez,1998-05-27,Norvia
+SL-0063,Sun Hao,1970-08-05,Dunmark
+SL-0064,Katrin Richter,1964-07-21,Veluna
+SL-0065,Anna Koch,1969-06-05,Castren
+SL-0066,Stefan Wagner,1957-07-29,Castren
+SL-0067,Nomsa Dlamini,1965-06-28,Korund
+SL-0068,Zhang Haoming,1986-09-02,Tessolia
+SL-0069,Nomsa du Plessis,1964-07-31,Zavria
+SL-0070,Ahmed Karim,1992-05-02,Korund
+SL-0071,Zhou Qianghua,1993-03-01,Zavria
+SL-0072,Wang Lei,1986-08-19,Norvia
+SL-0073,Li Fangwei,1990-11-06,Tessolia
+SL-0074,Omar Saleh,1980-08-06,Tessolia
+SL-0075,Ahmed Farouk,1976-05-06,Orsova
+SL-0076,Chen Wei,1996-07-19,Veluna
+SL-0077,Annelie le Roux,1999-10-18,Castren
+SL-0078,Noor Hassan,1981-05-12,Castren
+SL-0079,Hassan Al-Haddad,1954-11-27,Zavria
+SL-0080,Diego López Ruiz,1967-06-11,Castren
+SL-0081,Zhang Haojun,1972-02-18,Orsova
+SL-0082,Khalid Rahman,1974-12-12,Veluna
+SL-0083,Samira Al-Mansour,1991-03-22,Tessolia
+SL-0084,Hans Weber,1991-12-26,Elbany
+SL-0085,Fatima Haddad,1972-09-17,Veluna
+SL-0086,Carmen López Fernández,1963-01-12,Dunmark
+SL-0087,Pieter Mokoena,1990-04-20,Castren
+SL-0088,Jonas Koch,1968-01-03,Korund
+SL-0089,Lukas Koch,1958-01-28,Norvia
+SL-0090,Lerato Naidoo,1961-12-27,Zavria
+SL-0091,Zanele Venter,1960-09-02,Orsova
+SL-0092,Pieter le Roux,1967-03-05,Elbany
+SL-0093,Ana Ortega Pérez,1972-08-23,Korund
+SL-0094,Markus Fischer,1966-08-23,Dunmark
+SL-0095,Wang Yanting,1999-08-01,Korund
+SL-0096,Liu Xiaofang,1953-02-02,Norvia
+SL-0097,Greta Wagner,1953-03-20,Norvia
+SL-0098,Zhou Lei,1980-05-27,Veluna
+SL-0099,Bongani van der Merwe,1960-01-22,Belmara
+SL-0100,Lukas Schneider,1979-07-21,Elbany
+SL-0101,Bongani Mokoena,1953-11-26,Dunmark
+SL-0102,Lucía Pérez Ruiz,1961-05-06,Tessolia
+SL-0103,Felix Wagner,1950-02-05,Zavria
+SL-0104,Stefan Berg,1977-07-04,Zavria
+SL-0105,Zhao Fangxiao,1953-07-23,Veluna
+SL-0106,Zanele Pretorius,1961-02-19,Tessolia
+SL-0107,Diego Ortega Navarro,1995-05-22,Tessolia
+SL-0108,Pablo Torres Ortega,1954-10-02,Zavria
+SL-0109,Willem Khumalo,1956-01-06,Veluna
+SL-0110,María Torres Romero,1994-02-14,Orsova
+SL-0111,Layla Al-Rahman,1973-04-17,Zavria
+SL-0112,Liu Qiangwei,1972-04-17,Korund
+SL-0113,Diego Pérez García,1970-05-09,Castren
+SL-0114,Lucía García Gómez,1964-12-21,Korund
+SL-0115,Jonas Hoffmann,1966-01-21,Korund
+SL-0116,Lukas Schmidt,1986-02-05,Veluna
+SL-0117,José Romero Navarro,1963-05-03,Belmara
+SL-0118,Anna Richter,1982-12-17,Veluna
+SL-0119,Miguel Gómez Pérez,1957-10-26,Norvia
+SL-0120,Ibrahim Khoury,1950-08-05,Norvia
+SL-0121,Elena Gómez Romero,1975-06-27,Norvia
+SL-0122,Elena Pérez Romero,1998-05-24,Elbany
+SL-0123,Xu Haofang,1969-02-18,Belmara
+SL-0124,Carmen Gómez Ortega,1952-08-08,Korund
+SL-0125,Wang Haohua,1962-06-23,Zavria
+SL-0126,Yusuf Al-Khoury,1991-07-19,Belmara
+SL-0127,Yusuf Saleh,1986-09-13,Orsova
+SL-0128,Katrin Becker,1969-08-29,Tessolia
+SL-0129,Lucía Romero Ruiz,1951-01-06,Orsova
+SL-0130,Samira Haddad,1991-10-01,Elbany
+SL-0131,Wu Mingxiao,1952-04-30,Orsova
+SL-0132,Noor Al-Farouk,1993-11-27,Korund
+SL-0133,Lena Becker,1965-09-08,Castren
+SL-0134,Zhang Jingxiao,1975-01-12,Veluna
+SL-0135,Li Jun,1975-11-27,Zavria
+SL-0136,Li Fang,1973-09-14,Korund
+SL-0137,Noor Mansour,1962-03-31,Veluna
+SL-0138,Lucía Torres Sánchez,1973-08-29,Norvia
+SL-0139,Lerato van Wyk,1975-09-03,Veluna
+SL-0140,Lerato Khumalo,1988-08-22,Zavria
+SL-0141,Markus von der Wagner,1969-03-14,Elbany
+SL-0142,Pablo Fernández Ruiz,1957-03-15,Castren
+SL-0143,Sun Haojing,1964-03-12,Dunmark
+SL-0144,Pablo Pérez García,1996-10-09,Belmara
+SL-0145,Wu Weixiao,1962-09-27,Norvia
+SL-0146,Greta von Becker,1981-07-30,Korund
+SL-0147,Lena Wagner,1955-06-23,Veluna
+SL-0148,Markus Richter,1995-04-01,Veluna
+SL-0149,Ingrid Becker,1950-08-05,Tessolia
+SL-0150,Omar Al-Aziz,1981-09-18,Castren
+SL-0151,Zhang Haoxiao,1974-06-05,Veluna
+SL-0152,Diego Sánchez García,1961-10-25,Veluna
+SL-0153,Chen Hua,1968-09-12,Veluna
+SL-0154,Pieter van der Merwe,1972-12-08,Zavria
+SL-0155,Anna Fischer,1990-04-03,Zavria
+SL-0156,Khalid Al-Saleh,1962-08-19,Norvia
+SL-0157,Wang Tingjing,1958-11-12,Veluna
+SL-0158,Zhou Wei,1971-11-15,Norvia
+SL-0159,Annelie Naidoo,1959-10-30,Elbany
+SL-0160,Fatima Hassan,1953-12-08,Belmara
+SL-0161,Huang Hua,1977-09-25,Korund
+SL-0162,Lucía Romero Gómez,1986-02-10,Tessolia
+SL-0163,Zanele Naidoo,1994-10-17,Veluna
+SL-0164,Diego Martínez Sánchez,1995-04-30,Tessolia
+SL-0165,Sun Lei,1958-02-21,Zavria
+SL-0166,Stefan Schmidt,1955-10-20,Castren
+SL-0167,Ana Pérez García,1971-08-28,Veluna
+SL-0168,Ana Sánchez Ortega,1973-12-04,Veluna
+SL-0169,Elena García Ortega,1977-09-30,Belmara
+SL-0170,Liu Qiang,1984-04-13,Korund
+SL-0171,Jonas von der Koch,1992-10-19,Belmara
+SL-0172,Annelie Sithole,1971-02-28,Korund
+SL-0173,Wang Xiaowei,1988-03-29,Dunmark
+SL-0174,Liu Qianghua,1972-04-15,Zavria
+SL-0175,Ahmed Al-Farouk,1987-09-05,Castren
+SL-0176,Heidi von der Berg,1951-11-26,Dunmark
+SL-0177,Heidi Becker,1973-10-05,Orsova
+SL-0178,Zanele van Wyk,1957-12-06,Belmara
+SL-0179,Noor Al-Aziz,1998-05-26,Tessolia
+SL-0180,Chen Tingming,1959-09-06,Korund
+SL-0181,Markus Becker,1974-05-26,Castren
+SL-0182,Chen Jun,1988-08-01,Veluna
+SL-0183,Carlos García Pérez,1996-03-02,Zavria
+SL-0184,Fatima Al-Karim,1995-12-08,Dunmark
+SL-0185,Lukas Berg,1971-06-20,Orsova
+SL-0186,Sofía García Ruiz,1999-05-16,Norvia
+SL-0187,Javier Ruiz López,1955-01-21,Zavria
+SL-0188,Hans Hoffmann,1985-11-17,Norvia
+SL-0189,Elena García Sánchez,1988-10-01,Orsova
+SL-0190,Zhang Ming,1981-03-28,Veluna
+SL-0191,Wang Huajun,1976-06-03,Veluna
+SL-0192,María Fernández Ortega,1958-10-25,Orsova
+SL-0193,Greta Strauß,1966-02-06,Belmara
+SL-0194,Pablo Navarro Torres,1959-04-19,Veluna
+SL-0195,Mohammed Al-Aziz,1976-07-03,Orsova
+SL-0196,Lucía Fernández Torres,2000-02-05,Castren
+SL-0197,Greta Müller,1993-11-04,Veluna
+SL-0198,Heidi Strauß,1953-11-24,Dunmark
+SL-0199,María Romero Fernández,1992-05-06,Zavria
+SL-0200,Chen Xiaohao,1990-02-23,Veluna
+SL-0201,Omar Rahman,1995-04-22,Zavria
+SL-0202,Huang Yanfang,1962-07-31,Belmara
+SL-0203,Hans zu Becker,1977-12-03,Belmara
+SL-0204,Sipho Ndlovu,1961-05-05,Dunmark
+SL-0205,Stefan Koch,1955-07-03,Veluna
+SL-0206,Greta von der Becker,1990-01-12,Castren
+SL-0207,Pieter Botha,1984-01-22,Elbany
+SL-0208,Liu Weihao,1964-07-24,Dunmark
+SL-0209,Carlos Torres Fernández,1956-05-11,Tessolia
+SL-0210,Jonas Fischer,1962-07-02,Orsova
+SL-0211,Diego Pérez Romero,1951-09-30,Zavria
+SL-0212,Thabo Khumalo,1972-05-16,Zavria
+SL-0213,Omar Al-Rahman,1967-12-18,Castren
+SL-0214,Annelie van der Merwe,1995-05-28,Orsova
+SL-0215,Fatima Al-Haddad,1951-08-23,Veluna
+SL-0216,Hans Wagner,1967-07-20,Veluna
+SL-0217,Omar Khoury,1975-05-04,Norvia
+SL-0218,Samira Farouk,1966-12-10,Veluna
+SL-0219,Pablo Romero López,1995-07-14,Korund
+SL-0220,Zanele Ndlovu,1973-05-16,Dunmark
+SL-0221,Zhang Lei,1962-01-04,Elbany
+SL-0222,Pablo López Fernández,1953-08-13,Zavria
+SL-0223,Bongani le Roux,1957-06-07,Orsova
+SL-0224,Wu Qiangjun,1982-03-09,Zavria
+SL-0225,Diego Gómez López,1950-04-11,Zavria
+SL-0226,Palesa van der Merwe,1955-06-28,Elbany
+SL-0227,Felix Schmidt,1984-02-29,Zavria
+SL-0228,Carlos Ortega Navarro,1966-09-05,Belmara
+SL-0229,Ana Romero Sánchez,1989-01-28,Elbany
+SL-0230,Hans zu Strauß,1961-04-25,Korund
+SL-0231,Hassan Al-Nasser,1988-01-29,Belmara
+SL-0232,Yang Hua,1957-11-12,Castren
+SL-0233,Hassan Al-Rahman,1996-08-14,Tessolia
+SL-0234,Pablo Martínez Pérez,1983-06-04,Dunmark
+SL-0235,Bongani du Plessis,1951-01-11,Zavria
+SL-0236,Diego Torres Martínez,1977-09-26,Veluna
+SL-0237,Amira Al-Nasser,1954-12-23,Castren
+SL-0238,Willem Botha,1999-08-07,Zavria
+SL-0239,Hans Fischer,1955-02-02,Elbany
+SL-0240,Carlos Gómez Romero,1990-04-13,Norvia
+SL-0241,Willem Dlamini,1982-09-21,Norvia
+SL-0242,Zhang Xiao,1972-05-21,Zavria
+SL-0243,María Navarro Fernández,1972-12-07,Dunmark
+SL-0244,Layla Al-Khoury,1956-06-12,Veluna
+SL-0245,Layla Al-Saleh,1980-07-28,Castren
+SL-0246,Wang Mingwei,1963-10-19,Elbany
+SL-0247,Zhang Wei,1974-08-13,Korund
+SL-0248,Khalid Haddad,1988-04-30,Elbany
+SL-0249,Pieter Venter,1985-09-19,Tessolia
+SL-0250,Ana Romero Torres,1980-04-14,Dunmark
+SL-0251,Bongani Botha,1967-11-18,Elbany
+SL-0252,Ahmed Aziz,1973-11-29,Zavria
+SL-0253,Liu Hao,1974-06-28,Elbany
+SL-0254,Sipho Naidoo,1998-11-19,Castren
+SL-0255,Lukas Müller,1977-11-05,Orsova
+SL-0256,Felix Koch,1960-04-02,Zavria
+SL-0257,Elena Gómez García,1983-11-10,Belmara
+SL-0258,Liu Yanlei,1955-06-16,Veluna
+SL-0259,Samira Al-Aziz,1957-05-12,Korund
+SL-0260,Greta Hoffmann,1983-03-09,Veluna
+SL-0261,Carmen Romero García,1999-05-04,Belmara
+SL-0262,Khalid Aziz,1962-03-04,Zavria
+SL-0263,Felix von der Berg,1978-04-02,Korund
+SL-0264,Ahmed Al-Haddad,1969-06-08,Elbany
+SL-0265,Johan van Wyk,1982-06-02,Korund
+SL-0266,Lucía Ruiz Pérez,1960-07-18,Norvia
+SL-0267,Ibrahim Aziz,1969-01-06,Orsova
+SL-0268,Markus Hoffmann,1952-07-18,Orsova
+SL-0269,Yusuf Nasser,1962-05-31,Elbany
+SL-0270,Elena López García,1969-06-06,Norvia
+SL-0271,Diego Ortega López,1953-05-15,Belmara
+SL-0272,Ana Navarro Ruiz,1957-09-19,Veluna
+SL-0273,Markus zu Hoffmann,1996-10-16,Korund
+SL-0274,Johan Botha,2000-06-24,Norvia
+SL-0275,Zanele Khumalo,1996-06-21,Korund
+SL-0276,Lucía Ruiz García,1985-02-03,Norvia
+SL-0277,Thabo Pretorius,1980-08-19,Castren
+SL-0278,Willem Venter,1974-09-05,Orsova
+SL-0279,Palesa Naidoo,1984-03-29,Veluna
+SL-0280,Felix Fischer,1968-03-30,Belmara
+SL-0281,Layla Farouk,1971-08-18,Veluna
+SL-0282,Wang Weihua,1977-07-13,Veluna
+SL-0283,Hassan Haddad,1977-11-13,Dunmark
+SL-0284,Zhou Ting,1992-09-07,Veluna
+SL-0285,Ingrid Berg,1990-02-22,Norvia
+SL-0286,Xu Ting,1996-05-01,Korund
+SL-0287,Annelie du Plessis,1968-01-06,Korund
+SL-0288,Miguel Navarro Torres,1999-05-31,Castren
+SL-0289,Xu Tingwei,1981-02-28,Norvia
+SL-0290,Lena Strauß,1963-08-11,Belmara
+SL-0291,Layla Al-Karim,1978-08-02,Veluna
+SL-0292,Diego Navarro López,1956-07-02,Korund
+SL-0293,Amira Al-Saleh,1975-02-13,Korund
+SL-0294,Nomsa Mokoena,1952-08-28,Orsova
+SL-0295,Carmen Martínez Fernández,1993-10-04,Tessolia
+SL-0296,Hans von der Schmidt,1979-06-17,Elbany
+SL-0297,Ingrid Wagner,1961-08-17,Tessolia
+SL-0298,Lena Koch,1964-05-23,Orsova
+SL-0299,Lucía Martínez Ortega,1996-09-14,Castren
+SL-0300,Zhou Minghao,1982-07-05,Zavria
