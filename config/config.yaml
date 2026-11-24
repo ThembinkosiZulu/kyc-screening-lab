@@ -35,4 +35,6 @@ variant_level_mix:        # how planted sanctions matches are altered
   exact: 0.30
   one_change: 0.50
   two_changes: 0.20
-  
+
+
+collision_max_similarity: 90   # clean people must score below this against every sanctions name
