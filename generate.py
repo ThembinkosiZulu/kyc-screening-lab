@@ -7,6 +7,7 @@ from generator.sanctions import build_sanctions_list
 from generator.collisions import fix_collisions
 from generator.inject import Injector
 from generator.chains import plant_chains
+from generator.location_mismatch import plant_document_mismatches, plant_high_risk_locations
 
 
 def main():
@@ -23,6 +24,8 @@ def main():
     injector.plant_sanctions_matches()
     injector.plant_lookalikes()
     plant_chains(injector, tables, cfg, random.Random(f"{seed}-chains"))
+    plant_high_risk_locations(injector, tables, cfg, random.Random(f"{seed}-location"))
+    plant_document_mismatches(injector, tables, cfg, random.Random(f"{seed}-mismatch"))
     persons, answer_key = injector.results()
 
     # the detector only gets the columns the spec asks for

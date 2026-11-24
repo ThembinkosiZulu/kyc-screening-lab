@@ -34,3 +34,18 @@ def check_ownership(tables):
         assert total == 100.0, f"{company} adds up to {total}"
     for company in links:
         effective_stakes(links, company)
+
+def chain_companies(links_by_owned, target, max_depth=25):
+    """The target company and every company above it in its ownership chain."""
+    found = {target}
+
+    def walk(company, depth):
+        if depth > max_depth:
+            raise RuntimeError("Ownership chain loops or is too deep")
+        for owner_type, owner_id, _ in links_by_owned.get(company, []):
+            if owner_type == "company":
+                found.add(owner_id)
+                walk(owner_id, depth + 1)
+
+    walk(target, 0)
+    return found

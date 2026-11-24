@@ -35,6 +35,7 @@ def _sample_chain(depth, stake_range, link_range, filler_limit, rng):
 
 def plant_chains(inj, tables, cfg, rng):
     """Plant hidden owners and near-misses behind chains of holding companies."""
+    inj.chains = {}
     companies = tables["companies"].to_dict("records")
     for c in companies:
         c["is_client"] = True
@@ -132,7 +133,8 @@ def plant_chains(inj, tables, cfg, rng):
         for pid, value in stakes.items():
             if pid != hidden_person and pid not in declared_ids:
                 assert value < threshold, "an accidental hidden owner appeared"
-
+        
+        inj.chains[target] = shells
         inj._mark_flagged(target)
         inj._add_key(
             target,

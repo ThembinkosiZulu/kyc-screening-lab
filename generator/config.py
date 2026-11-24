@@ -14,6 +14,8 @@ def validate(cfg):
     assert 0 < cfg["ownership_threshold_pct"] < 100
     assert abs(sum(cfg["variant_level_mix"].values()) - 1.0) < 1e-9, "variant mix must sum to 1"
     assert 0 < cfg["collision_max_similarity"] <= 100, "collision limit must be between 0 and 100"
+    assert abs(sum(cfg["high_risk_mode_mix"].values()) - 1.0) < 1e-9, "high-risk mode mix must sum to 1"
+    assert abs(sum(cfg["mismatch_field_mix"].values()) - 1.0) < 1e-9, "mismatch field mix must sum to 1"
 
     for flag, rate in cfg["rates"].items():
         assert 0 <= rate <= 1, f"rate for {flag} must be between 0 and 1"

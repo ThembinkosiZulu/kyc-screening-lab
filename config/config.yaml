@@ -42,3 +42,10 @@ collision_max_similarity: 90   # clean people must score below this against ever
 
 hidden_owner_stake_range: [30, 60]   # effective stake (%) of planted hidden owners
 near_miss_stake_range: [15, 22]      # just under the threshold, labelled not a red flag
+
+high_risk_mode_mix:       # where a high-risk location is planted
+  client: 0.7             # the client company itself
+  holding: 0.3            # a holding company in its ownership chain
+mismatch_field_mix:       # what the application and certificate disagree on
+  registration_number: 0.5
+  address: 0.5
