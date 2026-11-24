@@ -45,7 +45,7 @@ class Injector:
         """Exact number of companies that get this flag."""
         return round(self.cfg["rates"][flag] * self.n_companies)
 
-    def _choose_company(self, chosen):
+    def _choose_company(self, chosen, need_person=True):
         """Pick a company that has not had this flag yet and still has a free person.
         Mostly from clean companies, sometimes from already-flagged ones."""
         p = self.cfg["multi_flag_probability"] if self.cfg["allow_multi_flag"] else 0.0
@@ -54,7 +54,7 @@ class Injector:
                 cid = self.rng.choice(self.flagged)
             else:
                 cid = self.rng.choice(self.clean_pool)
-            if cid not in chosen and self.free_people[cid]:
+            if cid not in chosen and (self.free_people[cid] or not need_person):
                 return cid
         raise RuntimeError("Could not find a company to plant in")
 

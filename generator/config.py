@@ -28,3 +28,7 @@ def validate(cfg):
     assert 1 <= cfg["evasion_period"] <= cfg["n_periods"]
     assert not set(cfg["high_risk_countries"]) & set(cfg["low_risk_countries"]), \
         "a country cannot be both high-risk and low-risk"
+    lo, hi = cfg["hidden_owner_stake_range"]
+    assert cfg["ownership_threshold_pct"] < lo <= hi < 100, "hidden owners must sit above the threshold"
+    lo, hi = cfg["near_miss_stake_range"]
+    assert 0 < lo <= hi < cfg["ownership_threshold_pct"], "near misses must sit below the threshold"

@@ -11,6 +11,7 @@ rates:                    # share of companies receiving each flag
   document_mismatch: 0.08
   high_risk_location: 0.07
   look_alike: 0.08
+  near_miss: 0.05
 
 allow_multi_flag: true
 multi_flag_probability: 0.05
@@ -38,3 +39,6 @@ variant_level_mix:        # how planted sanctions matches are altered
 
 
 collision_max_similarity: 90   # clean people must score below this against every sanctions name
+
+hidden_owner_stake_range: [30, 60]   # effective stake (%) of planted hidden owners
+near_miss_stake_range: [15, 22]      # just under the threshold, labelled not a red flag

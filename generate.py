@@ -6,6 +6,7 @@ from generator.clean import build_clean_dataset
 from generator.sanctions import build_sanctions_list
 from generator.collisions import fix_collisions
 from generator.inject import Injector
+from generator.chains import plant_chains
 
 
 def main():
@@ -21,6 +22,7 @@ def main():
     injector = Injector(tables, sanctions, cfg, random.Random(f"{seed}-inject"))
     injector.plant_sanctions_matches()
     injector.plant_lookalikes()
+    plant_chains(injector, tables, cfg, random.Random(f"{seed}-chains"))
     persons, answer_key = injector.results()
 
     # the detector only gets the columns the spec asks for
