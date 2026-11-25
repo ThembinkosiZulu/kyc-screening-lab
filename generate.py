@@ -8,6 +8,7 @@ from generator.collisions import fix_collisions
 from generator.inject import Injector
 from generator.chains import plant_chains
 from generator.location_mismatch import plant_document_mismatches, plant_high_risk_locations
+import pandas as pd
 
 
 def main():
@@ -31,6 +32,7 @@ def main():
     # the detector only gets the columns the spec asks for
     tables["persons"] = persons[["person_id", "full_name", "date_of_birth", "country"]]
     tables["sanctions_list"] = sanctions[["sanction_id", "full_name", "date_of_birth", "country"]]
+    tables["high_risk_countries"] = pd.DataFrame({"country": cfg["high_risk_countries"]})
 
     out, key_dir = Path("data"), Path("answer_key")
     out.mkdir(exist_ok=True)
